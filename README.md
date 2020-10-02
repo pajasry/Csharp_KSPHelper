@@ -3,7 +3,7 @@
 
  ## Použití
  1. stažení knihovny
-    - stáhni si [knihovnu](./raw/master/KSPHelper/bin/Release/netstandard2.0/KSPHelper.dll)
+    - stáhni si [knihovnu](https://github.com/pajasry/Csharp_KSPHelper/raw/master/KSPHelper/bin/Release/netstandard2.0/KSPHelper.dll)
     - zkopruj si knihovnu(.dll) ke svému projektu
     - v Solution Explorer klikni pravým na _Dependencies->Add project reference_
     - Vyber .dll soubor
