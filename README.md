@@ -14,7 +14,7 @@
     ```
 3. Deklarace
     ```csharp
-        KSPHeleper helper = new KSPHelper(@"C:\cesta\k\souboru");
+        KSPHelper helper = new KSPHelper(@"C:\cesta\k\souboru");
     ```
     - pokud zadáš špatnou cestu, můžou vyskočit Exception
     - helper podporuje jenom __.in__ 
@@ -54,12 +54,12 @@ Iteruje všechna data
     KSPHelper helper = new KSPHelper(@"C:\cesta");
     foreach(var line in helper.Collection)
         foreach(var value in line)
-            Console.WriteLine(value)
+            Console.WriteLine(value);
 ```
 Převede List na 2D pole
 ```csharp
     KSPHelper helper = new KSPHelper(@"C:\cesta");
-    string[,] data = helper.Collection.ToArray();
+    var data = helper.Collection.ToArray();
 ```
 Zvýšení rychlosti
 ```csharp
