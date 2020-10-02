@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hndXiXIoaA8BOinHaR0ep2jJRKjRAzvpWaCAK/jMoejFQGK19fuxb5CM6bto7p29lPdAeGxGSw7Z4gjTgiIzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelperExample\\KSPHelperExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

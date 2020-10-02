@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\KSPHelper\\KSPHelper.csproj",
+      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj",
       "projectName": "KSPHelper",
-      "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\KSPHelper\\KSPHelper.csproj",
+      "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj",
       "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\KSPHelper\\obj\\",
+      "outputPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",

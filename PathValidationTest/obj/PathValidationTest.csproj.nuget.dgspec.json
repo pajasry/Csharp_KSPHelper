@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\PathValidationTest\\PathValidationTest.csproj": {}
+    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\PathValidationTest\\PathValidationTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\KSPHelper\\KSPHelper.csproj": {
+    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\KSPHelper\\KSPHelper.csproj",
+        "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj",
         "projectName": "KSPHelper",
-        "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\KSPHelper\\KSPHelper.csproj",
+        "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj",
         "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\KSPHelper\\obj\\",
+        "outputPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\PathValidationTest\\PathValidationTest.csproj": {
+    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\PathValidationTest\\PathValidationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\PathValidationTest\\PathValidationTest.csproj",
+        "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\PathValidationTest\\PathValidationTest.csproj",
         "projectName": "PathValidationTest",
-        "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\PathValidationTest\\PathValidationTest.csproj",
+        "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\PathValidationTest\\PathValidationTest.csproj",
         "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\PathValidationTest\\obj\\",
+        "outputPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\PathValidationTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,8 +84,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\pavel\\source\\repos\\KSPHelper\\KSPHelper\\KSPHelper.csproj": {
-                "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\KSPHelper\\KSPHelper.csproj"
+              "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj": {
+                "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj"
               }
             }
           }

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj": {}
+    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelperExample\\KSPHelperExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj": {
+    "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelperExample\\KSPHelperExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj",
-        "projectName": "KSPHelper",
-        "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\KSPHelper.csproj",
+        "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelperExample\\KSPHelperExample.csproj",
+        "projectName": "KSPHelperExample",
+        "projectPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelperExample\\KSPHelperExample.csproj",
         "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelper\\obj\\",
+        "outputPath": "C:\\Users\\pavel\\source\\repos\\KSPHelper\\Csharp_KSPHelper\\KSPHelperExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,7 +26,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -37,15 +37,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -56,6 +48,17 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
