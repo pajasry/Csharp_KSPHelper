@@ -1,0 +1,9 @@
+C:\Users\pavel\source\repos\KSPHelper\KSPHelper\bin\Release\netstandard2.0\KSPHelper.deps.json
+C:\Users\pavel\source\repos\KSPHelper\KSPHelper\bin\Release\netstandard2.0\KSPHelper.dll
+C:\Users\pavel\source\repos\KSPHelper\KSPHelper\bin\Release\netstandard2.0\KSPHelper.pdb
+C:\Users\pavel\source\repos\KSPHelper\KSPHelper\obj\Release\netstandard2.0\KSPHelper.csprojAssemblyReference.cache
+C:\Users\pavel\source\repos\KSPHelper\KSPHelper\obj\Release\netstandard2.0\KSPHelper.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\KSPHelper\KSPHelper\obj\Release\netstandard2.0\KSPHelper.AssemblyInfo.cs
+C:\Users\pavel\source\repos\KSPHelper\KSPHelper\obj\Release\netstandard2.0\KSPHelper.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\KSPHelper\KSPHelper\obj\Release\netstandard2.0\KSPHelper.dll
+C:\Users\pavel\source\repos\KSPHelper\KSPHelper\obj\Release\netstandard2.0\KSPHelper.pdb
