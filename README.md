@@ -49,19 +49,21 @@
     ```
 
 ## Tipy - triky
-Iteruje všechna data
+#### Doslovný identifikátor [@](https://docs.microsoft.com/cs-cz/dotnet/csharp/language-reference/tokens/verbatim)
+ vše za @ je bráno doslova. Lze tak použít klíčová slova jako názvy nebo psát cesty bez potřeby escapování backslashe
+#### Iteruje všechna data
 ```csharp
     KSPHelper helper = new KSPHelper(@"C:\cesta");
     foreach(var line in helper.Collection)
         foreach(var value in line)
             Console.WriteLine(value);
 ```
-Převede List na 2D pole
+#### Převede List na 2D pole
 ```csharp
     KSPHelper helper = new KSPHelper(@"C:\cesta");
     var data = helper.Collection.ToArray();
 ```
-Zvýšení rychlosti
+#### Zvýšení rychlosti - buffrování a vypsání až na přání
 ```csharp
     KSPHelper helper = new KSPHelper(@"C:\cesta");
     helper.LiveWrite = false;
