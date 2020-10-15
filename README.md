@@ -19,7 +19,7 @@
     - pokud zadáš špatnou cestu, můžou vyskočit Exception
     - helper podporuje jenom __.in__ 
 4. Práce s daty
-    - data jsou uložena v _List<string[]> Collection
+    - data jsou uložena v __List<string[]> Collection__
     - to je list polí stringů, kde prvky jsou jednotlivá čísla z řádku
     ```
     3
